@@ -1,4 +1,3 @@
-```
 /*线性表的建立、插入和删除 
 作者：A Genius*/ 
 #include <stdio.h>
@@ -102,5 +101,3 @@ int main()
 	}
 	printf("error,please enter new number");
 }
-
-```
